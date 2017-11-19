@@ -16,8 +16,6 @@
 #
 # eld - an Erlang Linker
 
-set -x
-
 # Subroutines
 
 # link_single $SOURCE $OUTFILE [$ENTRY]
